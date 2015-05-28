@@ -6,6 +6,6 @@
   "license": "MIT",
   "dependencies": {
     "angular": ">1.2.0",
-    "intl-tel-input": "thesocialstation/intl-tel-input#447445b579b9b0d2cca9e4bb54d7b034d394ae84"
+    "intl-tel-input": "thesocialstation/intl-tel-input#a9d65d77245409ac9b4572c140093931fb0cac46"
   }
 }
